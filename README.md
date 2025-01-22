@@ -5,7 +5,7 @@ Frontend architect and indie maker
 ----------------------------------
 
 * 🌍  I'm based in Saarland, Germany
-* 🖥️  See my agency [Aptex - Agentur für Softwareentwicklung, Webentwicklung, Onlineshops, Webdesign im Saarland](https://aptex.de)
+* 🖥️  See my agency [Aptex - Individuelle Software für Startups und KMU](https://aptex.de)
 * ✉️  You can contact me at [consulting@aptex.de](mailto:consulting@aptex.de)
 * 🚀  I'm currently working on a lot of different things.
 
